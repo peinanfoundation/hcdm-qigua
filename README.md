@@ -2,6 +2,9 @@
 
 把 `HCDM起卦v2.4.xlsx` 的選卦組合與八位數起卦做成網頁。
 
+- GitHub：https://github.com/peinanfoundation/hcdm-qigua
+- 線上：https://macgb10.vercel.app
+
 ## 功能
 
 - **選卦求數**：外卦 → 外變 → 內卦 → 內變（與原表下拉規則相同）
